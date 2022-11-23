@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 third part of the lectures in finnish
 lectures is in english and would be translated in finnish
+=======
+third
+third
+third
+third
+third
+third
+third
+>>>>>>> 5a49b14cd91594750f1994ca924a829ecba6cb83

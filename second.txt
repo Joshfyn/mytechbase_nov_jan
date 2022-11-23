@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 second part of the lectures in english
 the tech class is great
+=======
+secodndfil
+secodndfil
+
+secodndfil
+
+secodndfil
+
+secodndfil
+
+secodndfil
+
+
+secondfil by Sheye
+
+secondfil by Sheye
+>>>>>>> 5a49b14cd91594750f1994ca924a829ecba6cb83

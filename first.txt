@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello glory, hello my tech base tutor
+=======
+loprem loprem loprem loperm 3
+ this is so cool to study
+
+ indeed it is so cool to study
+ 
+>>>>>>> 5a49b14cd91594750f1994ca924a829ecba6cb83
