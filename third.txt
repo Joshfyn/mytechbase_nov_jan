@@ -1,2 +1,8 @@
-third part of the lectures in finnish
-lectures is in english and would be translated in finnish
+refactoring improve objective attributes of code
+
+length
+
+duplication
+
+coupling cohesion
+
