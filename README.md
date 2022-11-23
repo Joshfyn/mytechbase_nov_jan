@@ -5,3 +5,4 @@ Class Intro to Git and its emvironment
 
 
 now clear some git commit
+jj
